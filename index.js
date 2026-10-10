@@ -13,7 +13,7 @@ if (!TOKEN || !CHANNEL_ID) {
   process.exit(1);
 }
 
-const MESSAGE = `**Free Access Not Unlocked? :thinking: @everyone**
+const MESSAGE = `**Free Access Not Unlocked? :thinking:**
 
 **Make sure you have done all the steps from https://discord.com/channels/1553720565892915280/1553989932169560165 Including:**
 1. **Comment**
